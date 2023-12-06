@@ -1,5 +1,7 @@
 flows:
   549fa373-9bfc-47f4-b6f5-75bf541c70cc: {ver: 1, file: Test.snapshot, comments: first
       commit, author: anonymous, created: 1701891679920, flowName: Test, flowDesc: ''}
+  c037e077-f9d4-485e-839b-513761cd7c1a: {ver: 1, file: MYSQL.snapshot, comments: '',
+    author: anonymous, created: 1701892072651, flowName: MYSQL, flowDesc: ''}
 layoutVer: 1
 bucketId: a8be264e-4e6e-400d-afed-85c1c4fa3c79
